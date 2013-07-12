@@ -1,0 +1,5 @@
+surfcamp_surfcamp:
+    resource: "@SurfcampSurfcampBundle/Controller/"
+    type:     annotation
+    prefix:   /
+

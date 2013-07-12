@@ -1,0 +1,27 @@
+/* 
+    Document   : default
+    Created on : 12-jul-2013, 20:18:06
+    Author     : admin
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+body, html {
+    margin: 0px !important;
+}
+nav {
+    padding: 30px;
+    background: black;
+    color: white;
+    width: 100%;
+    margin: 0px !important;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    font-size: 30px;
+}
+
